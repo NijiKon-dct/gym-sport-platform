@@ -1,0 +1,25 @@
+# 前端依赖，禁止上传
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+
+# Java后端编译产物
+gymbackend/target/
+*.class
+*.log
+
+# 编辑器、系统缓存
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+desktop.ini
+
+# 本地环境配置
+.env
+.env.local
+application-dev.yml
