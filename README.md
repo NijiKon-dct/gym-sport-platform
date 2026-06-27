@@ -47,7 +47,7 @@
 
 ## 环境部署
 ### 后端启动
-1. 创建MySQL数据库 `gym_platform`，执行docs下sql脚本
+1. 创建MySQL数据库 `gymdb`，执行docs下sql脚本
 2. 修改 `application.yml` 数据库账号密码
 3. 启动 SpringBoot 主类，默认端口8080
 
